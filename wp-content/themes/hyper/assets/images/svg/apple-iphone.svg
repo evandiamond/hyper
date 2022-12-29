@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="176px" height="361px" viewBox="0 0 176 361" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>apple-iphone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="45.5816337" width="2.59368421" height="14.571178" rx="1.29684211"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2.59368421" height="14.571178" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="76.5920894" width="2.59368421" height="27.2742562" rx="1.29684211"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2.59368421" height="27.2742562" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M1.29684211,109.470645 L1.29684211,109.470645 C0.580615988,109.470645 0,110.052924 0,110.76779 L0,135.447756 C0,136.164149 0.587710732,136.744901 1.29684211,136.744901 L1.29684211,136.744901 L1.29684211,136.744901 C2.01306822,136.744901 2.59368421,136.162621 2.59368421,135.447756 L2.59368421,110.76779 C2.59368421,110.051397 2.00597348,109.470645 1.29684211,109.470645 L1.29684211,109.470645 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2.59368421" height="27.2742562" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="173.406316" y="76.2184695" width="2.59368421" height="27.2742562" rx="1.29684211"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2.59368421" height="27.2742562" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <path d="M159.112277,360.91687 C167.825201,360.91687 174.888421,353.793605 174.888421,345.001579 L174.888421,15.9152907 C174.888421,7.12551838 167.827031,0 159.112277,0 L16.8877234,0 C8.1747994,0 1.11157895,7.12326502 1.11157895,15.9152907 L1.11157895,345.001579 C1.11157895,353.791352 8.17296892,360.91687 16.8877234,360.91687 L159.112277,360.91687 Z" id="path-9"></path>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="173.776842" height="360.91687" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <ellipse id="path-11" cx="88.1852632" cy="337.752433" rx="12.2273684" ry="12.3294583"></ellipse>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24.4547368" height="24.6589166" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="0.154022172" y="0.118161965" width="153.397895" height="273.116182" rx="4"></rect>
+        <rect id="path-15" x="73.915493" y="21.5963476" width="27.7894737" height="3.77771281" rx="1.88885641"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-966.000000, -1505.000000)">
+            <g id="mac-grey" transform="translate(297.000000, 1322.000000)">
+                <g id="apple-iphone" transform="translate(669.000000, 183.000000)">
+                    <g id="Device">
+                        <g id="Body" stroke="#CCCCCC" stroke-width="4">
+                            <use id="Vibrate" mask="url(#mask-2)" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <use id="Vol-Up" mask="url(#mask-4)" fill="#FFFFFF" xlink:href="#path-3"></use>
+                            <use id="Vol-Down" mask="url(#mask-6)" fill="#FFFFFF" xlink:href="#path-5"></use>
+                            <use id="Power" mask="url(#mask-8)" fill="#FFFFFF" xlink:href="#path-7"></use>
+                            <use mask="url(#mask-10)" xlink:href="#path-9"></use>
+                        </g>
+                        <use id="Home-Button" stroke="#CCCCCC" mask="url(#mask-12)" stroke-width="4" transform="translate(88.185263, 337.752433) rotate(-307.000000) translate(-88.185263, -337.752433) " xlink:href="#path-11"></use>
+                        <g id="Gallery---Bright-Water-Suites" transform="translate(11.338936, 42.847203)">
+                            <mask id="mask-14" fill="white">
+                                <use xlink:href="#path-13"></use>
+                            </mask>
+                            <use id="Mask" fill="#D8D8D8" xlink:href="#path-13"></use>
+                        </g>
+                        <ellipse id="Front-Cam" stroke="#CCCCCC" stroke-width="2" cx="60.2105263" cy="23.7248667" rx="2.77894737" ry="2.80214961"></ellipse>
+                        <mask id="mask-16" fill="white">
+                            <use xlink:href="#path-15"></use>
+                        </mask>
+                        <use id="Speaker" stroke="#CCCCCC" stroke-width="2" xlink:href="#path-15"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

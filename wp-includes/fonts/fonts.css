@@ -1,0 +1,30 @@
+﻿@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./google/exo/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 600;
+  src: url(./google/exo/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url(./google/roboto/KFOlCnqEu92Fr1MmSU5fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./google/roboto/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 300;
+  src: url(./google/robotocondensed/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYag.ttf) format('truetype');
+}
